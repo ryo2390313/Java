@@ -1,4 +1,4 @@
-package Rensyuu;
+
 import java.util.Scanner;
 public class Name {
     public static void main(String[] args){

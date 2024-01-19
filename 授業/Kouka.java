@@ -1,4 +1,4 @@
-package Rensyuu;
+
 import java.util.Scanner;
 public class Kouka {
     public static void main(String[] args) {
