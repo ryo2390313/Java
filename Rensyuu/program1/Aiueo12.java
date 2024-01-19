@@ -1,4 +1,4 @@
-package Rensyuu;
+package Rensyuu.program1;
 
 public class Aiueo12 {
     public static void main(String[] args){

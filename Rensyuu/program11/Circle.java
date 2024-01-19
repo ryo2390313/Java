@@ -1,4 +1,4 @@
-package Rensyuu;
+package Rensyuu.program11;
 import java.util.Scanner;
 
 public class Circle {

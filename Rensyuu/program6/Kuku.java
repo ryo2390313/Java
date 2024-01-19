@@ -1,4 +1,4 @@
-package Rensyuu;
+package Rensyuu.program6;
 
 public class Kuku {
     public static void main(String[] args) {

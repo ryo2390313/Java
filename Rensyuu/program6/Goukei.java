@@ -1,4 +1,4 @@
-package Rensyuu;
+package Rensyuu.program6;
 import java.util.Scanner;
 public class Goukei {
     public static void main(String[] args) {

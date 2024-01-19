@@ -1,4 +1,4 @@
-package Rensyuu;
+package Rensyuu.program8;
 import java.util.Scanner;
 public class For1 {
     public static void main(String[] args) {

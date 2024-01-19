@@ -1,4 +1,4 @@
-package Rensyuu;
+package Rensyuu.program9;
 
 import java.util.Scanner;
 
