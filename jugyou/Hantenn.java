@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
 public class Hantenn {
     static void swap(int[] a, int idx1, int idx2) {
