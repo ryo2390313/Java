@@ -1,0 +1,266 @@
+{
+    // IntelliSense を使用して利用可能な属性を学べます。
+    // 既存の属性の説明をホバーして表示します。
+    // 詳細情報は次を確認してください: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "StertUp",
+            "request": "launch",
+            "mainClass": "Rensyuu.program13.StertUp",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Mondai2",
+            "request": "launch",
+            "mainClass": "Rensyuu.program12.Mondai2",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Sample13_1",
+            "request": "launch",
+            "mainClass": "Rensyuu.program12.Sample13_1",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Sample13_1",
+            "request": "launch",
+            "mainClass": "Rensyuu.program13.Sample13_1",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "CalculaterProgram",
+            "request": "launch",
+            "mainClass": "Rensyuu.program12.CalculaterProgram",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Hantenn",
+            "request": "launch",
+            "mainClass": "Hantenn",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "Hello",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Kouka",
+            "request": "launch",
+            "mainClass": "Kouka",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Kouka5",
+            "request": "launch",
+            "mainClass": "Kouka5",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "StartUp",
+            "request": "launch",
+            "mainClass": "List13.StartUp",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Name",
+            "request": "launch",
+            "mainClass": "Name",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "PointTester",
+            "request": "launch",
+            "mainClass": "PointTester",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Abcde",
+            "request": "launch",
+            "mainClass": "Rensyuu.program1.Abcde",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Aiueo",
+            "request": "launch",
+            "mainClass": "Rensyuu.program1.Aiueo",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Aiueo12",
+            "request": "launch",
+            "mainClass": "Rensyuu.program1.Aiueo12",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Area",
+            "request": "launch",
+            "mainClass": "Rensyuu.program1.Area",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Nigyou",
+            "request": "launch",
+            "mainClass": "Rensyuu.program1.Nigyou",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Suuji",
+            "request": "launch",
+            "mainClass": "Rensyuu.program1.Suuji",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Toukyou",
+            "request": "launch",
+            "mainClass": "Rensyuu.program1.Toukyou",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Kurasu",
+            "request": "launch",
+            "mainClass": "Rensyuu.program11.Kurasu",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Main3",
+            "request": "launch",
+            "mainClass": "Rensyuu.program11.Main3",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Main4",
+            "request": "launch",
+            "mainClass": "Rensyuu.program11.Main4",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Rensyuu.program11.main",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "MoreCalc$Sample12_1",
+            "request": "launch",
+            "mainClass": "Rensyuu.program12.MoreCalc$Sample12_1",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Sample12_2",
+            "request": "launch",
+            "mainClass": "Rensyuu.program12.Sample12_2",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Hankei",
+            "request": "launch",
+            "mainClass": "Rensyuu.program3.Hankei",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "For",
+            "request": "launch",
+            "mainClass": "Rensyuu.program6.For",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Goukei",
+            "request": "launch",
+            "mainClass": "Rensyuu.program6.Goukei",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Kuku",
+            "request": "launch",
+            "mainClass": "Rensyuu.program6.Kuku",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "For1",
+            "request": "launch",
+            "mainClass": "Rensyuu.program8.For1",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Gakkoumei",
+            "request": "launch",
+            "mainClass": "Rensyuu.program9.Gakkoumei",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Sampl1_2",
+            "request": "launch",
+            "mainClass": "Sampl1_2",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Sample1_18",
+            "request": "launch",
+            "mainClass": "Sample1_18",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Sankaku",
+            "request": "launch",
+            "mainClass": "Sankaku",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Seisuuti",
+            "request": "launch",
+            "mainClass": "Seisuuti",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "SumAve1",
+            "request": "launch",
+            "mainClass": "SumAve1",
+            "projectName": "Java_9dedc4c9"
+        }
+    ]
+}
