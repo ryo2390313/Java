@@ -9,8 +9,6 @@ public class Abcde3 {
         System.out.print("文字列を入力: ");
         
         String Input = scanner.nextLine();
-
-        System.out.println("入力された文字列: " + Input);
         
         int length = Input.length();
         System.out.println(" 入力された文字数は " + length + "です。");

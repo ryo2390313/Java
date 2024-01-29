@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Abcde2",
+            "request": "launch",
+            "mainClass": "Rensyuu.program14.Abcde2",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
             "name": "Reigai2",
             "request": "launch",
             "mainClass": "Rensyuu.progrom15.Reigai2",
