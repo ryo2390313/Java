@@ -6,7 +6,7 @@ public class Reigai2 {
 
         try {
             System.out.print("整数を入力 = ");
-            if (scanner.hasNextInt()) {
+           
                 int num = scanner.nextInt();
                 
                 if (num % 2 == 0) {
@@ -14,12 +14,8 @@ public class Reigai2 {
                 } else {
                     System.out.println(num + " は奇数");
                 }
-
-            } else {
-                System.out.println("整数と認識できません!!");
-            }
         } catch (Exception e) {
-            System.out.println("エラーが発生しました:" + e.getMessage());
+            System.out.println("整数と認識できません!!");
         } finally {
             scanner.close();
         }
