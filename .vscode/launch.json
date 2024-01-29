@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Reigai",
+            "request": "launch",
+            "mainClass": "Rensyuu.progrom15.Reigai",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Abcde3",
+            "request": "launch",
+            "mainClass": "Rensyuu.program14.Abcde3",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "Abcde",
+            "request": "launch",
+            "mainClass": "Rensyuu.program14.Abcde",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "RangeErrorTester",
+            "request": "launch",
+            "mainClass": "List15.RangeErrorTester",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseArray1",
+            "request": "launch",
+            "mainClass": "List15.ReverseArray1",
+            "projectName": "Java_9dedc4c9"
+        },
+        {
+            "type": "java",
             "name": "StertUp",
             "request": "launch",
             "mainClass": "Rensyuu.program13.StertUp",
