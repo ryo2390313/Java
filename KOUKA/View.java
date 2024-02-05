@@ -1,6 +1,6 @@
 package KOUKA;
 
-public class View extends StartUp{
+public class View {
     public void displayOverview(Sabu directory) {
         System.out.println("=====Company Overview=====");
         for (Itkigyou company : directory.getCompanies()) {

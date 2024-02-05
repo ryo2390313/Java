@@ -11,4 +11,7 @@ public class Sabu extends View{
         return companies;
     }
     
+    public void displayAllCompanies() {
+        displayOverview(this);
+    }
 }
