@@ -1,10 +1,10 @@
 package KOUKA;
 public class Itkigyou {
-    private String name;
-    private String employment;
-    private String number;
-    private String selection;
-    private String welfare;
+    private String name;        //企業名
+    private String employment;  //職種
+    private String number;      //従業員数
+    private String selection;   //代表取締役
+    private String welfare;     //資本金
 
     public Itkigyou(String name, String employment, String number, String selection, String welfare) {
         this.name = name;

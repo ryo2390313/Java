@@ -1,13 +1,14 @@
 package KOUKA;
 
-public class Taiguu {
+public class Sabu extends View{
     private Itkigyou[] companies;
 
-    public Taiguu(Itkigyou[] companies) {
+    public Sabu(Itkigyou[] companies) {
         this.companies = companies;
     }
 
     public Itkigyou[] getCompanies() {
         return companies;
     }
+    
 }
